@@ -13,6 +13,8 @@ Welcome to **Python Journey**, a professionally curated repository of Jupyter no
 - 📊 **Data Science Foundations**: Exploratory Data Analysis (EDA) using Python packages
 
 ---
+<img width="764" height="1019" alt="image" src="https://github.com/user-attachments/assets/6be967e6-b36d-4a8c-a97b-8c6e83068e19" />
+
 ---
 
 ## 📚 Extended Learning Resources
