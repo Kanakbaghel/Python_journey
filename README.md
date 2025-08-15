@@ -45,20 +45,5 @@ Here are some foundational resources that supported my learning journey:
 | **SmartEDA: An R Package for Automated Exploratory Data Analysis** | [arxiv.org](https://arxiv.org/abs/1903.04754?utm_source=chatgpt.com) |The paper titled "SmartEDA: An R Package for Automated Exploratory Data Analysis" introduces SmartEDA, an R package designed to automate the exploratory data analysis (EDA) process. It offers functionalities such as descriptive statistics, visualizations, and summary reports, aiming to streamline the initial data investigation phase in data science workflows. |
 
 ---
-
-## 🔗 Run Notebooks in Google Colab
-
-Want to execute the notebooks interactively? Click the badge below each notebook to open it in Colab:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python_journey/blob/main/01_Fundamentals/variables.ipynb)
-
----
-
-## 🌐 Connect with Me
-
-I’m passionate about learning, sharing, and building in public.  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile) and grow together!
-
----
-
-> **“From syntax to insights—my Python path in notebooks.”**
+> _“Data becomes meaningful when it tells a story that leads to better decisions.”_  
+<p align="center"><em>Crafted with ♥ by <strong>Kanak Baghel</strong> | <a href="https://www.linkedin.com/in/kanakbaghel">LinkedIn</a></em></p>
