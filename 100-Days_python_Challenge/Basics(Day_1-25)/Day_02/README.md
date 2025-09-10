@@ -1,4 +1,3 @@
-```markdown
 # Python Syntax, Variables, and Data Types
 
 This guide introduces you to the fundamental building blocks of Python programming: its syntax rules, variables, and basic data types. Understanding these concepts is essential for writing clear and effective Python code.
@@ -108,5 +107,4 @@ Mastering these basics will help you write clean and effective Python code.
 
 ---
 
-*Happy coding!* 🐍
-```
+*Happy coding!* 
