@@ -1,6 +1,8 @@
 # Getting Started with Python, Jupyter Notebook, and VSCode
 
-Welcome!This guide will help you install Python, Jupyter Notebook, and Visual Studio Code (VSCode), and teach you how to create and run your first Python script and Jupyter notebook. Whether you are a beginner or just setting up your environment, this step-by-step tutorial will get you started smoothly.
+Welcome to the 100 days of python Challenge!
+
+This guide will help you install Python, Jupyter Notebook, and Visual Studio Code (VSCode), and teach you how to create and run your first Python script and Jupyter notebook. Whether you are a beginner or just setting up your environment, this step-by-step tutorial will get you started smoothly.
 
 ---
 
