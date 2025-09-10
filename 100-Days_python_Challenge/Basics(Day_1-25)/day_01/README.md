@@ -1,7 +1,6 @@
-```markdown
 # Getting Started with Python, Jupyter Notebook, and VSCode
 
-Welcome! This guide will help you install Python, Jupyter Notebook, and Visual Studio Code (VSCode), and teach you how to create and run your first Python script and Jupyter notebook. Whether you are a beginner or just setting up your environment, this step-by-step tutorial will get you started smoothly.
+Welcome!This guide will help you install Python, Jupyter Notebook, and Visual Studio Code (VSCode), and teach you how to create and run your first Python script and Jupyter notebook. Whether you are a beginner or just setting up your environment, this step-by-step tutorial will get you started smoothly.
 
 ---
 
@@ -237,5 +236,4 @@ You are ready to explore Python programming and data science with powerful tools
 
 ---
 
-*Happy coding!* 🚀
-```
+*Happy coding!* 
