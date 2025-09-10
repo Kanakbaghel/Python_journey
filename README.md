@@ -1,19 +1,19 @@
-# 🐍 Python Journey: Structured Notebook Hub
+# Python Journey: Structured Notebook Hub
 
 Welcome to **Python Journey**, a professionally curated repository of Jupyter notebooks documenting my hands-on exploration of Python. This hub covers everything from core programming fundamentals to data engineering and data science essentials—organized for clarity, execution, and continuous learning.
 
 ---
 
-## 🚀 Repository Highlights
+##  Repository Highlights
 
-- 📘 **Python Fundamentals**: Variables, operators, control flow, and functions
-- 🔢 **Data Types & Conversion**: Strings, integers, floats, booleans, and type casting
-- 📦 **Core Libraries**: NumPy for numerical computing, Matplotlib for visualization
-- 🛠️ **Data Engineering Basics**: File handling, working with structured data
-- 📊 **Data Science Foundations**: Exploratory Data Analysis (EDA) using Python packages
+-  **Python Fundamentals**: Variables, operators, control flow, and functions
+-  **Data Types & Conversion**: Strings, integers, floats, booleans, and type casting
+-  **Core Libraries**: NumPy for numerical computing, Matplotlib for visualization
+-  **Data Engineering Basics**: File handling, working with structured data
+-  **Data Science Foundations**: Exploratory Data Analysis (EDA) using Python packages
 
 ---
-## 📚 References
+##  References
 - NumPy Learn Portal: [numpy.org/learn](https://numpy.org/learn/)
 - Pandas Quickstart Guide: [pandas.pydata.org/docs/user_guide/10min.html](https://pandas.pydata.org/docs/user_guide/10min.html)
 
@@ -27,7 +27,7 @@ Welcome to **Python Journey**, a professionally curated repository of Jupyter no
 
 Here are some foundational resources that supported my learning journey:
 
-| 🧠 **Topic** | 🔗 **Resource** | 📄 **Description** |
+|  **Topic** | 🔗 **Resource** | 📄 **Description** |
 |--------------|----------------|--------------------|
 | **Introduction to Anaconda Installation on Windows** | [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/) | The GeeksforGeeks tutorial provides a comprehensive walkthrough on installing Anaconda on Windows. It starts with an overview of what Anaconda is—a distribution of Python and R for scientific computing—and then details each step of the installation process. This includes downloading the installer, executing the setup, and verifying the installation through the command line. The article is user-friendly and well-suited for beginners or anyone setting up a Python development environment for data science or machine learning. |
 | **Overview of Python Data Types** | [W3Schools](https://www.w3schools.com/python/python_datatypes.asp) | W3Schools provides a beginner-friendly introduction to Python data types, covering the most common types such as strings, integers, floats, booleans, and complex numbers. It includes examples of how each type is used and detected in Python code using the type() function. This guide is a practical resource for understanding Python’s dynamically typed system and how different data types behave in typical programming scenarios.|
