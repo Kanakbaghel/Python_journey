@@ -9,3 +9,5 @@ def add(a,b):
 
 result = add(34,56)
 
+## Practice
+#  two numbers and returns their product.
