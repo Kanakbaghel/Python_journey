@@ -1,29 +1,31 @@
-# Velvet Python
+# My Python Journey
 
 <div align="center">
 
 <!-- Advanced animated header with gradient background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20,22&height=300&section=header&text=Velvet%20Python&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Building%20Python%20Mastery%20Through%20Working%20Code&descAlignY=55&descSize=25&fontColor=8B7D8B" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20,22&height=300&section=header&text=My%20Python%20Journey&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Building%20Python%20Mastery%20Through%20Working%20Code&descAlignY=55&descSize=25&fontColor=8B7D8B" alt="Header"/>
 
 <!-- Working badges with consistent pastel theme -->
 [![Python](https://img.shields.io/badge/Python-3.10%20|%203.11%20|%203.12-FFE4E1?style=for-the-badge&logo=python&logoColor=706B70)](https://www.python.org/)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Cazzy-Aporbo/velvet-python/ci.yml?style=for-the-badge&label=Build&color=E6E6FA)](https://github.com/Cazzy-Aporbo/velvet-python/actions)
-[![Coverage](https://img.shields.io/codecov/c/github/Cazzy-Aporbo/velvet-python?style=for-the-badge&color=F0E6FF&logo=codecov&logoColor=706B70)](https://codecov.io/gh/Cazzy-Aporbo/velvet-python)
+[![Coverage](https://img.shields.io/codecov/c/github/Kanakbaghel/Python_journey?style=for-the-badge&color=F0E6FF&logo=codecov&logoColor=706B70)](https://codecov.io/gh/Kanakbaghel/Python_journey)
 [![License](https://img.shields.io/github/license/Cazzy-Aporbo/velvet-python?style=for-the-badge&color=FFF0F5)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/Cazzy-Aporbo/velvet-python?style=for-the-badge&color=FFEFD5&logo=github&logoColor=706B70)](https://github.com/Cazzy-Aporbo/velvet-python/stargazers)
+[![Stars](https://img.shields.io/github/stars/Kanakbaghel/Python_journey?style=for-the-badge&color=FFEFD5&logo=github&logoColor=706B70)](https://github.com/Kanakbaghel/Python_journey/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/Cazzy-Aporbo/velvet-python?style=for-the-badge&color=F5DEB3)](https://github.com/Cazzy-Aporbo/velvet-python/commits)
 
 <!-- Animated typing effect with pastel gradient -->
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3000&pause=1000&color=8B7D8B&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Every+pattern+tested+and+benchmarked;Interactive+visualizations+for+deep+understanding;Started+January+2025+as+my+learning+journey" alt="Typing Animation"/>
 
+
+
 </div
    
+
+
 
 <!-- Advanced statistics cards with pastel ombre -->
 <div align="center">
 <table style="border: none; width: 100%;"><tr><td valign="top" width="33%">
-
-
 
 ### Core Metrics
 <div align="center">
@@ -37,10 +39,10 @@
 
 ### Repository Stats
 <div align="center">
-<img src="https://img.shields.io/github/code-size/Cazzy-Aporbo/velvet-python?style=flat-square&color=FFE4E1&label=Code%20Size" />
-<img src="https://img.shields.io/github/repo-size/Cazzy-Aporbo/velvet-python?style=flat-square&color=E6E6FA&label=Repo%20Size" />
-<img src="https://img.shields.io/github/languages/count/Cazzy-Aporbo/velvet-python?style=flat-square&color=F0F8FF&label=Languages" />
-<img src="https://img.shields.io/github/commit-activity/m/Cazzy-Aporbo/velvet-python?style=flat-square&color=FFF0F5&label=Commits" />
+<img src="https://img.shields.io/github/code-size/Kanakbaghel/Python_journey?style=flat-square&color=FFE4E1&label=Code%20Size" />
+<img src="https://img.shields.io/github/repo-size/Kanakbaghel/Python_journey?style=flat-square&color=E6E6FA&label=Repo%20Size" />
+<img src="https://img.shields.io/github/languages/count/Kanakbaghel/Python_journey?style=flat-square&color=F0F8FF&label=Languages" />
+<img src="https://img.shields.io/github/commit-activity/m/Kanakbaghel/Python_journey?style=flat-square&color=FFF0F5&label=Commits" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,19 +60,6 @@
 
 <br>
 
-## Project Genesis
-
-<div style="background: linear-gradient(135deg, #FFE4E1 0%, #F0E6FF 50%, #E6F3FF 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-
-**Started:** January 2025  
-**Status:** Active Development  
-**Purpose:** Educational Mastery  
-
-I began this project after realizing most Python resources fall into two extremes: oversimplified tutorials that don't scale, or production code too complex for learning. This repository bridges that gap with real, working code that demonstrates exactly how concepts perform in practice.
-
-My approach is methodical. I build everything from scratch, measure actual performance, and create interactive visualizations that make complex concepts intuitive. When I claim asyncio handles 10,000 connections efficiently, I prove it with benchmarks you can reproduce.
-
-</div>
 
 ## Architecture & Learning Path
 
