@@ -1,5 +1,11 @@
 <h1 align="center"> My Python Journey </h1>
+
 <div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3.10%20|%203.11%20|%203.12-FFE4E1?style=for-the-badge&logo=python&logoColor=706B70)](https://www.python.org/)
+[![Stars](https://img.shields.io/github/stars/Kanakbaghel/Python_journey?style=for-the-badge&color=FFEFD5&logo=github&logoColor=706B70)](https://github.com/Kanakbaghel/Python_journey/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Kanakbaghel/Python_journey?style=for-the-badge&color=F5DEB3)](https://github.com/Kanakbaghel/Python_journey/commits)
+[![Issues](https://img.shields.io/github/issues/Kanakbaghel/Python_journey?style=for-the-badge&color=E6E6FA)](https://github.com/Kanakbaghel/Python_journey/issues)
 
 <!-- Advanced animated header with gradient background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20,22&height=300&section=header&text=My%20Python%20Journey&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Building%20Python%20Mastery%20Through%20Working%20Code&descAlignY=55&descSize=25&fontColor=8B7D8B" alt="Header"/>
