@@ -1,0 +1,28 @@
+# Core Python packages
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+
+# NLP
+nltk
+spacy
+
+# Deep Learning
+tensorflow
+keras
+
+# Utilities
+requests
+
+# Optional (for advanced visualization and dashboards)
+plotly
+streamlit
+
+# For testing and code quality
+pytest
+black
+isort
+flake8
